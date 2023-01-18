@@ -1,5 +1,5 @@
 # RSI_IoT
----Ovládanie pomocou microbitu pomocou mobilnej aplikácie---
+---Ovládanie microbitu pomocou mobilnej aplikácie---
 V priečinku BLE sú dva súbory:
 1.Súbor Com-bluetooth-mwoolley-microbitbledemo.7.apk je aplikácia, ktorú je nutné nainštalovať do telefónu.
 2.Súbor BLE_alphabot2.hex je nutné nahrať do microbitu.
