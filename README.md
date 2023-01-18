@@ -11,6 +11,11 @@ Robot má zvukom upozorní:
     ak je vzdialenosť k prekážke menšia ako 10cm zrýchleným pípaním
     ak je vzdialenosť k prekážke menšia ako 5cm stálym tónom
 
+-----------------------------------dodatočné súbory-----------------------------------
 V priečinku Radio sú súbory, ktoré je nutné nahrať do microbitov príslušne podľa názvu ovládač a auto.
 Microbit s kódom pre ovládač bude riadiť auto tak, že bude odosielať údaje o svojom naklonení, ktoré auto následne prevedie na pohyb motorov.
 Žiadné iné senzory tam nie sú.
+
+---POZOR!---
+Odosielanie veľkého množstva údajov o Y a X náklone vedie k rýchlemu vybitiu batérií alphabot2 (2x3,6V (typ batérie 14500))!
+Je preto nutné používať dobíjateľné batérie alebo porozmýšľať nad nejakou power bankou, ktorá bude mať požadované napätie na výstupe.
