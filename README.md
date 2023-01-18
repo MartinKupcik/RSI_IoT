@@ -1,4 +1,5 @@
 # RSI_IoT
+V priečinku BLE sú dva súbory:
 Súbor Com-bluetooth-mwoolley-microbitbledemo.7.apk je aplikácia, ktorú je nutné nainštalovať do telefónu.
 Súbor BLE_alphabot2.hex je nutné nahrať do microbitu
 
